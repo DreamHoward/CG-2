@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\howard\圖學\hw2\cg_hw2\main.cpp(239): warning C4018: '<': signed/unsigned 不相符
+d:\howard\圖學\hw2\cg_hw2\main.cpp(241): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+d:\howard\圖學\hw2\cg_hw2\main.cpp(242): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+d:\howard\圖學\hw2\cg_hw2\main.cpp(243): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+d:\howard\圖學\hw2\cg_hw2\main.cpp(346): warning C4018: '<': signed/unsigned 不相符
+d:\howard\圖學\hw2\cg_hw2\main.cpp(348): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+d:\howard\圖學\hw2\cg_hw2\main.cpp(349): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+d:\howard\圖學\hw2\cg_hw2\main.cpp(350): warning C4838: 從 'GLuint' 到 'int' 的轉換必須是縮小轉換
+  CG_HW2.vcxproj -> D:\Howard\圖學\HW2\Debug\CG_HW2.exe
